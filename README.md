@@ -1,6 +1,6 @@
 # CPU
 
-[![CPU](blue.png)](https://github.com/life-wire/cpu.html)
+[![CPU](blue.png)](https://computersolve.com/what-is-cpu/)
 
 Alternately referred to as a processor, central processor, or microprocessor, the CPU (pronounced sea-pea-you) is the central processing unit of the computer. A computer's CPU handles all instructions it receives from hardware and software running on the computer. For example, the CPU processed the instructions to use a web browser to open and display this web page on your computer.
 
